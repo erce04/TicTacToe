@@ -1,0 +1,15 @@
+C:\Programmering\Prog test 3\bin\Debug\net6.0\Prog test 3.exe
+C:\Programmering\Prog test 3\bin\Debug\net6.0\Prog test 3.deps.json
+C:\Programmering\Prog test 3\bin\Debug\net6.0\Prog test 3.runtimeconfig.json
+C:\Programmering\Prog test 3\bin\Debug\net6.0\Prog test 3.dll
+C:\Programmering\Prog test 3\bin\Debug\net6.0\Prog test 3.pdb
+C:\Programmering\Prog test 3\obj\Debug\net6.0\Prog test 3.csproj.AssemblyReference.cache
+C:\Programmering\Prog test 3\obj\Debug\net6.0\Prog test 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmering\Prog test 3\obj\Debug\net6.0\Prog test 3.AssemblyInfoInputs.cache
+C:\Programmering\Prog test 3\obj\Debug\net6.0\Prog test 3.AssemblyInfo.cs
+C:\Programmering\Prog test 3\obj\Debug\net6.0\Prog test 3.csproj.CoreCompileInputs.cache
+C:\Programmering\Prog test 3\obj\Debug\net6.0\Prog test 3.dll
+C:\Programmering\Prog test 3\obj\Debug\net6.0\refint\Prog test 3.dll
+C:\Programmering\Prog test 3\obj\Debug\net6.0\Prog test 3.pdb
+C:\Programmering\Prog test 3\obj\Debug\net6.0\Prog test 3.genruntimeconfig.cache
+C:\Programmering\Prog test 3\obj\Debug\net6.0\ref\Prog test 3.dll
